@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403834401 source:/home/nick/Google Drive/Jumping Into C/Chapter 3/Division/MultiUserAuth/main.cpp
+	<iostream>
+	<string>
+
