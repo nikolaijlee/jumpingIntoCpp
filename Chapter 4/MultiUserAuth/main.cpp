@@ -23,14 +23,14 @@ int main()
             cout << "Error: Wrong Password." << endl;
         }
     }
-    else if(user == "claire"){
+    else if(user == "mike"){
         string realPassword = "12";
 
         cout << "Password: " << endl;
         getline(cin, password, '\n');
 
         if(password == realPassword){
-            cout << "Welcome back Claire!" << endl;
+            cout << "Welcome back Mike!" << endl;
         }else{
             cout << "Error: Wrong Password." << endl;
         }
