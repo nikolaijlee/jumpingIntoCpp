@@ -1,0 +1,13 @@
+1. What is the correct value to return to the operating system upon the successful completion of a program?
+	A: 0
+2. What is the only function all C++ programs must contain?
+	A: main()
+3. What punctuation is used to signal the beginning and end of code blocks?
+	A:  {}
+4. What punctuation ends most lines of C++ code?
+	A: ;
+5. Which of the following is a correct comment?
+	A: /* */
+6. What header file do you need to use to get access to cout?
+	A: iostream
+
