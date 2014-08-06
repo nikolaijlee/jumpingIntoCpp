@@ -1,0 +1,8 @@
+1. What is the final value of x when the code x int; for(x=0; x<10; x++) is run?
+	A:  10
+2. When does the following while (x<100) execute?
+	A: when x is less than one hundred.
+3. Which is not a loop structure?
+	A: Repeat until
+4. How many times is a do-while loop guaranteed to loop?
+	A: 1

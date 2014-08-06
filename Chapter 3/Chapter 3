@@ -1,0 +1,14 @@
+1. What variable type should you use if you want to store a number like 3.1415?
+	A: Double
+2. Which of the following is a correct operator to compare two variable?
+	A: ==
+3. How do you get access to the string data type?
+	A: You include the string header file.
+4. Which of the following is not a correct variable type?
+	A: Real
+5. How can you read an entire line from a user?
+	A: Use getline
+6. What would be displayed on the screen for this expression in C++: cout << 1234/2000?
+	A: 0
+7. Why does C++ need a char type when there are already integers?
+	A: To make it easier to read in and print out, actual 		characters rather than actual numbers, even though chars are 		stored as numbers.

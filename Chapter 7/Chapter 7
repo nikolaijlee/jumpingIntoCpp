@@ -1,0 +1,8 @@
+1. Which follows a case statement?
+	A: A colon :
+2. What is required to avoid falling though from one case to the next?
+	A: break;
+3. What keyword covers all unhandled possibilities?
+	A: default
+4. What is the result of the following code?
+	A: Zero Hello World

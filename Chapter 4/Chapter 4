@@ -1,0 +1,8 @@
+1. Which of the following is true?
+	A: All of the above
+2. Which of the following is a boolean operator for the boolean and?
+	A: &&
+3. What does the expression ! ( true && ! (false || true ) ) evaluate to?
+	A: True
+4. Which of the following show correct syntax for an if statement?
+	A: if ( expression )

@@ -1,0 +1,8 @@
+1. Which is not a proper prototype?
+	A:  double funct(char x)
+2. The function with prototype int func(char x, double v, float t) has which of the following return type?
+	A: int
+3. Which of the following is a valid function call (assuming the function exists)?
+	A: funct();
+4. Which of the following is a complete function?
+	A: int funt(int x){return x=x+1;}
